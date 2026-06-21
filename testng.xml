@@ -2,6 +2,8 @@
 <test name="Base Test">
 <Classes>
 	<Class name = "test.test"/>
+	<Class name = "test.LoginTest2"/>
+	<Class name = "test.LoginTest"/>
 </Classes>
 </test>
 </suite>

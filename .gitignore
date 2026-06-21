@@ -1,10 +1,9 @@
 # Eclipse
 .classpath
-. project
+.project
 .settings/
 
 # Maven
 log/
 target/
-test-output/
 Maven Dependencies/

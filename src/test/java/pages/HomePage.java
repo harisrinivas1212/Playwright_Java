@@ -6,7 +6,7 @@ public class HomePage {
 
 	private final Page page;
 	private final String recruitmentMenu = "text=Recruitment";
-	private final String myInfoMenu = "text=My Inf";
+	private final String myInfoMenu = "text=My Info";
 	
 	public HomePage(Page page) {
 		this.page = page;

@@ -1,0 +1,7 @@
+<suite name="Playwright suite">
+<test name="Base Test">
+<Classes>
+	<Class name = "test.test"/>
+</Classes>
+</test>
+</suite>
